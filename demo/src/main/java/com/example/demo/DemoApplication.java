@@ -8,6 +8,7 @@ public class DemoApplication {
 
     public static void main(String[] args) {
         System.out.println("args = " + args);
+        System.out.println("测试提交到分支");
         SpringApplication.run(DemoApplication.class, args);
     }
 
